@@ -7,9 +7,13 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/jl917/jl917/output/github-contribution-grid-snake.svg" />
 </picture>
 
+
 # 🌐 Socials
 
 [![CodeSandbox](https://img.shields.io/badge/codesandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/jl917) 
+
+
+# 💻 Tech Stack
 
 ## Language
 
@@ -47,5 +51,7 @@
 # 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jl917&count_private=true&show_icons=true&theme=vue-dark)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jl917&theme=vue-dark&hide_border=false)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jl917&count_private=true&show_icons=true&theme=vue-dark&layout=compact)
